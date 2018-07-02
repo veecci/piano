@@ -1,2 +1,2 @@
 # piano
-***Coding is boring, let's learn to play piano.***
+***Life happens while you are busy making other plans.***
